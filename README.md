@@ -57,6 +57,6 @@ Each molecule is represented as a graph:
    git clone https://github.com/annadu03/583final-project.git
    cd 583final-project
 2. Install dependencies
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3.The code to reproduce the work is in the final_project.ipynb
